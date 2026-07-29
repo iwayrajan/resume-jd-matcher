@@ -1,0 +1,20 @@
+Job Title: Backend Developer (Entry Level)
+
+We are looking for a Backend Developer to join our engineering team.
+
+Requirements:
+- 1+ years of experience with Python
+- Strong SQL skills
+- Experience with Django or Flask
+- Familiarity with Docker is a plus
+- Understanding of REST API design
+- Bachelor's degree in Computer Science or related field
+
+Nice to have:
+- Experience with Kubernetes
+- Exposure to AWS or other cloud platforms
+
+Responsibilities:
+- Build and maintain REST APIs
+- Write unit tests and participate in code reviews
+- Collaborate with frontend team on API contracts

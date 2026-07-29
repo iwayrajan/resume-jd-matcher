@@ -1,0 +1,20 @@
+Job Title: Data Scientist
+
+We are seeking a Data Scientist to join our analytics team.
+
+Requirements:
+- 3+ years of experience in data science or machine learning
+- Strong skills in Python, Pandas, and NumPy
+- Experience with machine learning frameworks (scikit-learn, TensorFlow, or PyTorch)
+- Statistical analysis and hypothesis testing experience
+- Experience with SQL and data visualization tools
+- Master's degree in Data Science, Statistics, or related field
+
+Nice to have:
+- Experience with deep learning
+- Familiarity with cloud ML platforms (AWS SageMaker, GCP Vertex AI)
+
+Responsibilities:
+- Build and deploy machine learning models
+- Analyze large datasets to extract actionable insights
+- Present findings to stakeholders
