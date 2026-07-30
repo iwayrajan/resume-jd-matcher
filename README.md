@@ -83,6 +83,29 @@ streamlit run app.py
   regardless of how substantively that skill is actually demonstrated elsewhere
   in the resume.
 
+## Full delivery toolkit
+
+Mirroring the other three products, this repo also includes everything needed to
+package and sell this as a student project:
+
+- `docs/` — architecture and scoring-methodology diagrams (SVG + PNG)
+- `report_template/` — generates a full 8-chapter Word report (`generate_report.js`)
+- `presentation/` — generates a 14-slide PowerPoint deck (`generate_deck.js`)
+- `viva_prep/viva_question_bank.md` — Q&A bank, cheat sheet, and a 2-minute pitch script
+- `tracker/` — order tracker spreadsheet (canonical copy, now spans all four products)
+- `scripts/generate_all.sh` — regenerates the report + deck and packages a delivery folder
+- `student_config.json` — the one file to edit per student; everything above reads from it
+
+To generate a delivery package for a new student:
+```bash
+# 1. Edit student_config.json with their details
+# 2. Run:
+bash scripts/generate_all.sh
+```
+This produces `deliverables/<student_name>/` with the report, deck, and viva bank
+ready to hand over (after you've swapped in real screenshots — see
+`report_template/README.md`).
+
 ## Files
 
 - `app.py` — Streamlit UI (upload, JD input, score display, radar chart, feedback)
